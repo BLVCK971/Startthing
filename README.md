@@ -24,3 +24,6 @@ Bon finallement pas si si simple que ca
 * Je n'avais pas crée le Repo sur GitHub
 * Il fallait Stage avant de Push quand même 
 ## Maintenant c'est mieux !!!
+
+
+lol je modifie comme je veux
